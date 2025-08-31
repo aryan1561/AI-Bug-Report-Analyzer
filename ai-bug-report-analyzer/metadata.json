@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Bug Report Analyzer",
+  "description": "An AI-powered tool to automatically analyze, categorize, and suggest fixes for software bug reports. Paste a bug report and let AI provide a structured summary, priority, category, and potential solution."
+}
